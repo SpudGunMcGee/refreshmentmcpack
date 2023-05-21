@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+hash = "fcabb4357f5f82f9a010a55a1e4758d5e8aaafee04b36614ad60861889b887db"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
@@ -426,6 +431,11 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "4d1c72cd8de368c49d9e447c9700edae16c77419307547a91d026f4fddef2039"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "a2961c6134993521eda1a60ca4de659d68ba898d774b42b3c992311999f41424"
 metafile = true
@@ -643,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "3427e35d0c774f658e695ca765261ead54eda1686f11be6605512022a1394b8a"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "246c46e50bfc4b4fdd98aa78425b2df36996dae77fdcad1278914484a2348d74"
 metafile = true
 
 [[files]]
