@@ -1,0 +1,13 @@
+name = "Botania"
+filename = "Botania-1.19.2-439-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/YKSFC2o4/Botania-1.19.2-439-FORGE.jar"
+hash-format = "sha1"
+hash = "817df1ed5fb12fb2086bd8a6d4856758ec27ed09"
+
+[update]
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "YKSFC2o4"

@@ -1,0 +1,13 @@
+name = "Sophisticated Storage"
+filename = "sophisticatedstorage-1.19.2-0.7.8.366.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e6bdf702b4023de4dad4bb616c4e4184af23ccf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4525684
+project-id = 619320

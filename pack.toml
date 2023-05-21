@@ -1,0 +1,13 @@
+name = "Refreshment"
+author = "SpudGunMcGee"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a8fd6a424d401f6b70a9d10adbb8fe80f6865bf723825fee8bfb148af80662e"
+
+[versions]
+forge = "43.2.11"
+minecraft = "1.19.2"
